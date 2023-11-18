@@ -92,7 +92,7 @@
     height:360px;
     width:260px;
     margin:10px;
-    margin-left:17.5px;
+    margin-left: 17.5px;
     float: left;
     background-color: whitesmoke;
 }
@@ -199,45 +199,6 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     justify-content: center;
 }
-/* #signin{
-    height:300px;
-    padding: 80px;
-}
-#sign_in{
-    font-family: candara;
-    padding: 20px;
-    height: 350px;
-    width: 400px;
-    margin: auto;
-}
-.input_field{
-    height:40px;
-    width: 400px;
-    margin: 5px;
-    margin-left: 20px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 18px;
-    border: 1 px solid indianred;
-    outline: 0px;
-    background-color: whitesmoke;
-}
-
-.input_btn{
-    font-family: candara;
-    font-size: 18px;
-    height:35px;
-    width: 350px;
-    margin: 5px;
-    margin-left: 50px;
-    background-color:#9DF910;
-    border:0px;
-    color:white;
-    align-items: center;
-}
-#form_align{
-    margin-top: 30px;
-} */
-    /**/
     #signin{
         height:350px;
         padding: 35px;
@@ -283,11 +244,7 @@
     *{
         margin: 0;
     }
-    /* #container{
-        height:auto;
-        width:95%;
-        margin:auto;
-    } */
+    
     #mqdemo{
         background-color: #9DF910 ;
         color:black;
@@ -312,7 +269,6 @@
     #nav{
         z-index: 1;
         position: sticky;
-        /* top:10;  */
         margin-top: 25px;
         height:30px;
         background-color: #9DF910;
@@ -322,7 +278,7 @@
        list-style: none;
        margin-top: 10px;
        padding-left: 0px;
-       /* left: 0; */
+      
     }
     #nav ul li{
         display: inline;
@@ -353,7 +309,6 @@
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     }
     #about1{
-        /* margin: auto; */
         margin: 10px 0px;
         height:580px;
         text-align: justify;
@@ -373,7 +328,6 @@
     }
     #box{
         height:1470px;
-        /* padding: 20px;*/
     }
     #boxes{
         margin: auto;
@@ -384,9 +338,7 @@
         width:200px;
         margin:10px;
         margin-top: 20px;
-        /* margin-left: 30px; */
         float: left;
-        /* background-color: whitesmoke; */
     }
     #boximg{
         height:270px;
@@ -409,9 +361,6 @@
         height: 200px;
         width: 200px;
         margin: 20px 0px;
-        /* border-radius: 50%; */
-        /* transition: 1s; */
-        /* align-items: center; */
     }
     #servicebox{
         height:1200px;
@@ -439,12 +388,6 @@
         height:350px;
         width:200px;
     }
-    /* #boxim1{
-        height:300px;
-        width:300px;
-        margin-left: 150px;
-        float: left;
-    } */
     #servicebox #serv #sbox3 #sh1{
         text-align: justify;
     }
@@ -468,7 +411,6 @@
     #contact{
         margin-top: 20px;
         height:1530px;
-        /* padding: 15px; */
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     }
     #contact1,#contact2,#contact3,#contact4{
@@ -492,7 +434,6 @@
     }
     #footer{
         height:50px;
-        padding: 5px;
         position: absolute;
         width:95%;
     }
